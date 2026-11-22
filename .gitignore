@@ -1,0 +1,8 @@
+.godot/
+builds/
+artifacts/
+*.log
+*.tmp
+*.keystore
+*.jks
+.env*
